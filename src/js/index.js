@@ -7,12 +7,7 @@ import ReactDOM from "react-dom";
 import "../styles/index.css";
 import Simplecounter from "./component/simpleCounter";
 
-//import your own components
 
-
-
-
-//render your react application
 
 
 let counter = 0;
